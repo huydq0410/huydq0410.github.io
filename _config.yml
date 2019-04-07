@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://huydq0410.github.io"
-baseurl: ""
+baseurl: "huydq0410.github.io"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -17,7 +17,7 @@ baseurl: ""
 title: Do Quang Huy's Blog
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Blog tinh ta linh tinh của Huy
 
 # --- Navigation bar options --- #
 
@@ -72,23 +72,23 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
-#  reddit: yourname
-#  google-plus: +DeanAttali
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+  email: "huydo0410@gmail.com"
+  facebook: "facebook.com/huydq0410"
+  github: "huydq0410.github.io"
+  twitter: 
+#  reddit:
+#  google-plus:
+#  linkedin:
+#  xing: Quang Huy
+#  stackoverflow:
+#  snapchat:
+#  instagram: huydq0410
+#  youtube:
+#  spotify:
+#  telephone: +84974492367
+#  steam:
+#  twitch:
+#  yelp:
 
 # Select which share links to show in posts
 share-links-active:
