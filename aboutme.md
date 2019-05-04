@@ -1,13 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Nơi chia sẻ dăm ba cái vớ vẩn
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Huy. I'm 25. I were born in Quang Ninh, now i live in Ha Noi, My hobbies are:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Table tennis
+- Piano
+- cook
 
 What else do you need?
 
