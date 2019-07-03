@@ -1,0 +1,18 @@
+.hw-title-top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url("../../images/backgroundtop.jpg") center no-repeat;
+  background-size: cover;
+  height: 210px;
+  width: 100%;
+  .hwtt-title {
+    text-align: center;
+    color: #fff;
+    font-size: 70px;
+    font-weight: 900;
+    letter-spacing: -0.11rem;
+    line-height: 0.95;
+    font-family: SFP-Bold;
+  }
+}

@@ -1,0 +1,62 @@
+header {
+  background: #191919;
+  height: 60px;
+  position: sticky;
+  top: 0;
+  display: flex;
+  align-items: center;
+  padding: 0 32px;
+  justify-content: space-between;
+  z-index: 9999;
+  .hw-logo {
+    a {
+      font-family: SFP-Regular;
+      font-size: 16px;
+      color: #fff;
+    }
+  }
+
+  .hw-text-center {
+    a {
+      font-family: SFP-Semibold;
+      font-size: 15px;
+      color: #a4a4a4;
+      transition: all 0.2s linear;
+      margin-right: 24px;
+
+      &:hover {
+        color: #fff;
+      }
+    }
+
+    .active {
+      color: #fff;
+    }
+  }
+
+  .hw-social {
+    display: flex;
+    align-items: center;
+
+    .hws-text {
+      font-family: SFP-Semibold;
+      font-size: 14px;
+      color: #fff;
+      margin-right: 16px;
+    }
+
+    .hws-icon {
+      img {
+        width: 33px;
+      }
+    }
+
+    .hws-facebook {
+      margin-right: 8px;
+
+      img {
+        width: 27px;
+      }
+    }
+  }
+}

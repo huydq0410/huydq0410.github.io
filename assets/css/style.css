@@ -1,0 +1,16 @@
+@font-face{
+    font-family: SFP-Bold;
+    src: url("../font/SFP/SFProText-Bold.ttf")
+}
+@font-face{
+  font-family: SFP-Medium;
+  src: url("../font/SFP/SFProText-Medium.ttf")
+}
+@font-face{
+  font-family: SFP-Regular;
+  src: url("../font/SFP/SFProText-Regular.ttf")
+}
+@font-face{
+  font-family: SFP-Semibold;
+  src: url("../font/SFP/SFProText-Semibold.ttf")
+}

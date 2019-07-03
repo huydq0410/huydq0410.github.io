@@ -1,0 +1,15 @@
+.w1140{
+    max-width: 1140px;
+    margin: auto;
+}
+.w400{
+  max-width: 400px;
+  margin: auto;
+}
+.h100vh{
+  height: 100vh;
+}
+.img-w20p{
+  width: 50vw;
+  height: 20vw;
+}

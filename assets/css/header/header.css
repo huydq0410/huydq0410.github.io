@@ -1,0 +1,70 @@
+header {
+  background: #191919;
+  height: 60px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 0 32px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  z-index: 9999;
+}
+
+header .hw-logo a {
+  font-family: SFP-Regular;
+  font-size: 16px;
+  color: #fff;
+}
+
+header .hw-text-center a {
+  font-family: SFP-Semibold;
+  font-size: 15px;
+  color: #a4a4a4;
+  -webkit-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+  margin-right: 24px;
+}
+
+header .hw-text-center a:hover {
+  color: #fff;
+}
+
+header .hw-text-center .active {
+  color: #fff;
+}
+
+header .hw-social {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+header .hw-social .hws-text {
+  font-family: SFP-Semibold;
+  font-size: 14px;
+  color: #fff;
+  margin-right: 16px;
+}
+
+header .hw-social .hws-icon img {
+  width: 33px;
+}
+
+header .hw-social .hws-facebook {
+  margin-right: 8px;
+}
+
+header .hw-social .hws-facebook img {
+  width: 27px;
+}
+/*# sourceMappingURL=header.css.map */
