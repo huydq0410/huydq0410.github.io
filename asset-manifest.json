@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mywebsite/static/css/main.8c24f3fa.chunk.css",
+    "main.js": "/mywebsite/static/js/main.ba211ea4.chunk.js",
+    "main.js.map": "/mywebsite/static/js/main.ba211ea4.chunk.js.map",
+    "runtime-main.js": "/mywebsite/static/js/runtime-main.d4259911.js",
+    "runtime-main.js.map": "/mywebsite/static/js/runtime-main.d4259911.js.map",
+    "static/js/2.415d925f.chunk.js": "/mywebsite/static/js/2.415d925f.chunk.js",
+    "static/js/2.415d925f.chunk.js.map": "/mywebsite/static/js/2.415d925f.chunk.js.map",
+    "index.html": "/mywebsite/index.html",
+    "precache-manifest.ce9e416a1fbb9c9d1c8e7290015f3302.js": "/mywebsite/precache-manifest.ce9e416a1fbb9c9d1c8e7290015f3302.js",
+    "service-worker.js": "/mywebsite/service-worker.js",
+    "static/css/main.8c24f3fa.chunk.css.map": "/mywebsite/static/css/main.8c24f3fa.chunk.css.map",
+    "static/js/2.415d925f.chunk.js.LICENSE": "/mywebsite/static/js/2.415d925f.chunk.js.LICENSE",
+    "static/media/index.css": "/mywebsite/static/media/SFProText-Semibold.1a131c94.ttf",
+    "static/media/style.scss": "/mywebsite/static/media/backgroundtop.16c5260c.jpg",
+    "static/media/logo.svg": "/mywebsite/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4259911.js",
+    "static/js/2.415d925f.chunk.js",
+    "static/css/main.8c24f3fa.chunk.css",
+    "static/js/main.ba211ea4.chunk.js"
+  ]
+}
